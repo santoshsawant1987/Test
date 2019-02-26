@@ -8,7 +8,7 @@ namespace Addition
 {
     public class Class1
     {
-        int s;
+        int s1;
         public int addition(int x,int y)
         {
             return x + y;
